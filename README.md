@@ -6,13 +6,12 @@ Create a program that formats and sanitizes strings.
 
 -   Make sure the function is called in an `index.js` file.
 
-
+Example of your end result:
 ```bash
 $ node index.js "mIAmi   Vice"
 Miami Vice
 ```
-
-
+Steps to create your program:
 *   Create a Formatting function in `formatting.js`. This function should:
     a) Trim whitespace from the beginning and end of the parameter.
     b) Collapse spaces (ensure only one space appears at a time, no doubles)
