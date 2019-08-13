@@ -24,7 +24,7 @@ Steps to create your program:
     -   ' sao tome' => 'sao tome'
     -   'kuala lumpur ' => 'kuala lumpur'
 
-*   In `messaging.js` write a new function called `showHelp`.
+-   In `messaging.js` write a new function called `showHelp`.
 
     -   The function should fire if the term `--help` appears anywhere in the argument list.
 
@@ -39,7 +39,7 @@ Steps to create your program:
     Miami Vice
     ```
 
-*   also in `formatting.js` write a new function called `capitalizeInitial`. This function should take a string as a parameter, and return it with only the first letter capitalized.
+-   also in `formatting.js` write a new function called `capitalizeInitial`. This function should take a string as a parameter, and return it with only the first letter capitalized.
 
     Example output:
 
